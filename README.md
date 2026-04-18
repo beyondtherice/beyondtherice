@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Dang</h1>
 <h3 align="center">4th Year Computer Science Student @ UVA</h3>
 
-- 🔭 I’m currently working on [UVA Food Waste App](https://a13-project-b4c4ab05ddac.herokuapp.com/)
+- 🔭 I’m currently working on [UVA Food Waste App]
 
 - 🌱 I’m currently learning **Node.js, AI/ML**
 
