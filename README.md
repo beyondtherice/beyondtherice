@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **peterdang2012@gmail.com**
 
-- ⚡ Fun fact **Pro gamer and volleyball player**
+- ⚡ Fun fact **gamer, gym rat, volleyball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
